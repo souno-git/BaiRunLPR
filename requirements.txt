@@ -1,0 +1,10 @@
+PyQt5
+pymysql
+hyperlpr
+Pillow
+Keras
+Theano
+Numpy
+Scipy
+opencv-python
+freetype-py
